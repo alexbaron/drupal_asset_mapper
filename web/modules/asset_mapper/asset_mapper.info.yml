@@ -1,0 +1,5 @@
+name: 'AssetMapper'
+type: module
+description: 'module to configure asset mapper for drupal'
+package: Custom
+core_version_requirement: ^10
